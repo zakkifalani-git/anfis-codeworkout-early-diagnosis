@@ -26,7 +26,7 @@ The experiments use the **CodeWorkout Spring 2019 (S19)** dataset.
 
 The original dataset is provided in ProgSnap2 format and contains programming-learning event data recorded during students' interactions with the CodeWorkout platform.
 
-The implementation expects the original dataset archive to contain, among others:
+This implementation requires the original dataset archive to contain, among others:
 
 - `MainTable.csv`
 - `CodeStates.csv`
