@@ -1,0 +1,7 @@
+numpy
+pandas
+scikit-learn
+scipy
+statsmodels
+matplotlib
+rarfile    # optional, only needed if the dataset archive is a .rar file

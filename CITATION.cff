@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated manuscript (details will be added once it is published)."
+title: "Interpretable Neuro-Fuzzy Model for Early Programming Learning Support: code for the CodeWorkout S19 experiments"
+type: software
+authors:
+  - family-names: Falani
+    given-names: Achmad Zakki
+  - family-names: Patmanthara
+    given-names: Syaad
+  - family-names: Prasetya
+    given-names: Didik Dwi
+repository-code: "https://github.com/zakkifalani-git/anfis-codeworkout-early-diagnosis"
+license: MIT
+keywords:
+  - ANFIS
+  - neuro-fuzzy
+  - programming education
+  - early diagnosis
+  - CodeWorkout
